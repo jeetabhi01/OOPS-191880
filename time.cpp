@@ -53,4 +53,5 @@ int main(){
 Time output = addTime(a,b);
 std:: pair<int,int> p = output.getData();
 cout<<p.first<<" "<<p.second<<endl;
+    return 0;
 }
